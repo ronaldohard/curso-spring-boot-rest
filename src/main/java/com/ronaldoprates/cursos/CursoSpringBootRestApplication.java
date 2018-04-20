@@ -8,6 +8,6 @@ public class CursoSpringBootRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CursoSpringBootRestApplication.class, args);
-		System.out.println("------------------kansdkasndkasd------------------");
+		System.out.println("------------------Testando commit de uma alteracao------------------");
 	}
 }
